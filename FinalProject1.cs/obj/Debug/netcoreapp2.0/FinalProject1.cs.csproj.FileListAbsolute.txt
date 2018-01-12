@@ -1,0 +1,11 @@
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/bin/Debug/netcoreapp2.0/FinalProject1.cs.deps.json
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/bin/Debug/netcoreapp2.0/FinalProject1.cs.runtimeconfig.json
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/bin/Debug/netcoreapp2.0/FinalProject1.cs.runtimeconfig.dev.json
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/bin/Debug/netcoreapp2.0/FinalProject1.cs.dll
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/bin/Debug/netcoreapp2.0/FinalProject1.cs.pdb
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.csprojResolveAssemblyReference.cache
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.csproj.CoreCompileInputs.cache
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.AssemblyInfoInputs.cache
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.AssemblyInfo.cs
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.dll
+/Users/HaniOsman/Projects/FinalProject1.cs/FinalProject1.cs/obj/Debug/netcoreapp2.0/FinalProject1.cs.pdb
